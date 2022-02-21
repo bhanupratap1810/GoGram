@@ -6,7 +6,7 @@
 - Clone this repository and run `npm install` in your terminal
 - Create a `.env` file and set `DB_CONNECTION`, `PORT` and `TOKEN_SECRET`
 - Create `uploads/postsImages` and `uploads/profilePic` directories in the base repository as shown below.
-![](../Screenshot 2022-02-21 at 12.00.20 PM.png)
+<img width="347" alt="Screenshot 2022-02-21 at 12 00 20 PM" src="https://user-images.githubusercontent.com/52910511/154901408-3383a662-5aaa-4473-9c04-9237b1933a35.png">
 - Run `npm start` in your terminal to start the server
 
 ## cURLs
