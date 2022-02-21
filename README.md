@@ -5,6 +5,8 @@
 - Run `docker run -p 27017:27017 mongo` in your terminal for mongoDb
 - Clone this repository and run `npm install` in your terminal
 - Create a `.env` file and set `DB_CONNECTION`, `PORT` and `TOKEN_SECRET`
+- Create `uploads/postsImages` and `uploads/profilePic` directories in the base repository as shown below.
+![](../Screenshot 2022-02-21 at 12.00.20 PM.png)
 - Run `npm start` in your terminal to start the server
 
 ## cURLs
